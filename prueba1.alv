@@ -1,0 +1,6 @@
+entero main(){
+	entero a=5;
+	si(a=5){
+		mostrar(a);
+	}
+}
